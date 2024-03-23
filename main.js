@@ -1,3 +1,12 @@
+/* 
+Name: Deodato Sozinho
+File: main.js
+Date: 20 March 2024
+
+*/
+
+
+
 const customName = document.getElementById('customname');
 const randomize = document.querySelector('.randomize');
 const story = document.querySelector('.story');
